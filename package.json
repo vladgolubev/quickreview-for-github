@@ -53,10 +53,10 @@
     "webext-options-sync": "1.2.3"
   },
   "devDependencies": {
-    "@babel/core": "7.10.2",
-    "@babel/plugin-transform-react-jsx": "7.10.1",
-    "@babel/preset-env": "7.10.2",
-    "@babel/preset-typescript": "7.10.1",
+    "@babel/core": "7.12.10",
+    "@babel/plugin-transform-react-jsx": "7.12.10",
+    "@babel/preset-env": "7.12.10",
+    "@babel/preset-typescript": "7.12.7",
     "@shelf/eslint-config": "0.16.0",
     "@shelf/prettier-config": "0.0.7",
     "@types/chrome": "0.0.115",
@@ -65,7 +65,7 @@
     "@types/node": "14.0.13",
     "@types/webpack": "4.41.17",
     "babel-jest": "26.0.1",
-    "babel-loader": "8.1.0",
+    "babel-loader": "8.2.2",
     "copy-webpack-plugin": "5.1.1",
     "eslint": "7.2.0",
     "husky": "4.2.5",
