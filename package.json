@@ -57,7 +57,7 @@
     "@babel/plugin-transform-react-jsx": "7.10.1",
     "@babel/preset-env": "7.10.2",
     "@babel/preset-typescript": "7.10.1",
-    "@shelf/eslint-config": "0.16.0",
+    "@shelf/eslint-config": "0.25.0",
     "@shelf/prettier-config": "0.0.7",
     "@types/chrome": "0.0.115",
     "@types/copy-webpack-plugin": "5.0.0",
